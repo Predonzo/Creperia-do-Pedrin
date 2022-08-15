@@ -1,22 +1,18 @@
-      CREPERIA DO PEDRIN
+<h1> CREPERIA DO PEDRIN </h1>
 ESTAMOS LOCALIZADOS NA AV. BRASIL N°46
       Fundada em 2014, a creperia do pedrin
        contém os melhores crepes da cidade
 
+<h1><p>SABORES: </p></h1>
 
-SABORES:
-
-Calabresa R$6,00
-Pizza R$7,00
-Queijo e Presunto R$8,50
-Queijo R$5,50 
-Quatro queijos R$7,00
-
- Crepes doces
-
-Chocolate R$9,50
-Dois amores R$9,50
-Prestigio R$12,00
-Nutella R$15,00
-Goiabada com queijo R$15,00
-nutella com leite ninho R$15,00
+<p> Queijo R$6,00</p>
+<p>Pizza R$7,00</p>
+<p> Queijo e Presunto R$8,50 </p>
+<p> Calabresa R$5,50 </p>
+<p> Quatro queijos R$7,00 </p>
+ <p>Chocolate R$9,50</p>
+<p>Dois amores R$9,50 </p>
+<p>Prestigio R$12,00 </p>
+ <p>Nutella R$15,00 </p>
+<p>Goiabada com queijo R$15,00 </p>
+<p>nutella com leite ninho R$15,00 </p>
